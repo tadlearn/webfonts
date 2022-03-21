@@ -2,7 +2,7 @@
 @font-face {
   font-family: "jf-openhuninn";
 
-  src: url("https://schoolweb.tn.edu.tw/uploads/fonts/jf-openhuninn.woff2") format("woff2"); /* Modern Browsers */
+  src: url("https://cdn.jsdelivr.net/gh/tadlearn/webfonts/jf-openhuninn.woff2") format("woff2"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }
@@ -10,7 +10,7 @@
 @font-face {
   font-family: "Mamelon";
 
-  src: url("https://schoolweb.tn.edu.tw/uploads/fonts/Mamelon.woff2") format("woff2"); /* Modern Browsers */
+  src: url("https://cdn.jsdelivr.net/gh/tadlearn/webfonts/Mamelon.woff2") format("woff2"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }
@@ -18,21 +18,21 @@
 @font-face {
   font-family: "mnyylti";
 
-  src: url("https://schoolweb.tn.edu.tw/uploads/fonts/mnyylti.woff2") format("woff2"); /* Modern Browsers */
+  src: url("https://cdn.jsdelivr.net/gh/tadlearn/webfonts/mnyylti.woff2") format("woff2"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'HanWangWeBe';
-  src: url('HanWangWeBe.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/tadlearn/webfonts/HanWangWeBe.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'HanWangMingBlack';
-  src: url('HanWangMingBlack.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/tadlearn/webfonts/HanWangMingBlack.woff2') format('woff2');
   font-weight: 900;
   font-style: normal;
 }
