@@ -11,3 +11,8 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 ```
 <link href="https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css" rel="stylesheet" media="all">
 ```
+
+- jf-openhuninn ：jf open 粉圓體 https://justfont.com/huninn/
+- Mamelon ：マメロン（mamelon）字體 https://moji-waku.com/mamelon/
+- mnyylti ：
+- HanWangWeBe ：王漢宗魏碑體

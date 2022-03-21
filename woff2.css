@@ -1,4 +1,4 @@
-/* font converted using font-converter.net. thank you! */
+/* jf open 粉圓 */
 @font-face {
   font-family: "jf-openhuninn";
 
@@ -7,6 +7,7 @@
   font-style: normal;
 }
 
+/* マメロン（mamelon）字體 */
 @font-face {
   font-family: "Mamelon";
 
@@ -23,6 +24,7 @@
   font-style: normal;
 }
 
+/* 王漢宗魏碑體 */
 @font-face {
   font-family: 'HanWangWeBe';
   src: url('https://cdn.jsdelivr.net/gh/tadlearn/webfonts/HanWangWeBe.woff2') format('woff2');
