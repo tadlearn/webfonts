@@ -36,3 +36,34 @@
   font-weight: 900;
   font-style: normal;
 }
+
+@font-face {
+  font-family: 'JasonHandwriting1-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/tadlearn/webfonts/JasonHandwriting1-Regular.woff2') format("woff2")
+}
+
+@font-face {
+  font-family: 'JasonHandwriting2-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/tadlearn/webfonts/JasonHandwriting2-Regular.woff2') format("woff2");
+}
+
+@font-face {
+  font-family: 'JasonHandwriting3-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/tadlearn/webfonts/JasonHandwriting3-Regular.woff2') format("woff2");
+}
+
+@font-face {
+  font-family: 'XinYiGuanHeiTi-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/tadlearn/webfonts/XinYiGuanHeiTi-Regular.woff2') format("woff2");
+}
+
+@font-face {
+  font-family: 'Iansui';
+  src: url('https://cdn.jsdelivr.net/gh/tadlearn/webfonts/Iansui.woff2') format("woff2");
+}
+
+@font-face {
+  font-family: 'SweiToothpasteCJKtc-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/max32002/swei-toothpaste@2.0/WebFont/CJK%20TC/SweiToothpasteCJKtc-Regular.woff2') format("woff2")
+  , url('https://cdn.jsdelivr.net/gh/max32002/swei-toothpaste@2.0/WebFont/CJK%20TC/SweiToothpasteCJKtc-Regular.woff') format("woff");
+}
