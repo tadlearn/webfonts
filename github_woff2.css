@@ -1,0 +1,80 @@
+/* jf open 粉圓 */
+@font-face {
+  font-family: "jf-openhuninn";
+
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/jf-openhuninn.woff2) format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* マメロン（mamelon）字體 */
+@font-face {
+  font-family: "Mamelon";
+
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/Mamelon.woff2) format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "mnyylti";
+
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/mnyylti.woff2) format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 王漢宗魏碑體 */
+@font-face {
+  font-family: 'HanWangWeBe';
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/HanWangWeBe.woff2) format('woff2);
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HanWangMingBlack';
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/HanWangMingBlack.woff2) format('woff2);
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'XinYiGuanHeiTi-Regular';
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/XinYiGuanHeiTi-Regular.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: 'Iansui';
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/Iansui.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: 'SweiToothpasteCJKtc-Regular';
+  src: url(https://github.com/max32002/swei-toothpaste/raw/master/WebFont/CJK%20TC/SweiToothpasteCJKtc-Regular.woff2) format("woff2")
+  , url(https://github.com/max32002/swei-toothpaste/raw/master/WebFont/CJK%20TC/SweiToothpasteCJKtc-Regular.woff) format("woff");
+}
+
+@font-face {
+  font-family: "JasonHandwriting1-Regular";
+  src: url(https://github.com/max32002/JasonHandWritingFonts/blob/master/webfont/JasonHandwriting1-Regular.woff2) format("woff2")
+  , url(https://github.com/max32002/JasonHandWritingFonts/blob/master/webfont/JasonHandwriting1-Regular.woff) format("woff");
+}
+
+@font-face {
+  font-family: "JasonHandwriting2-Regular";
+  src: url(https://github.com/max32002/JasonHandWritingFonts/blob/master/webfont/JasonHandwriting2-Regular.woff2) format("woff2")
+  , url(https://github.com/max32002/JasonHandWritingFonts/blob/master/webfont/JasonHandwriting2-Regular.woff) format("woff");
+}
+
+@font-face {
+  font-family: "JasonHandwriting3-Regular";
+  src: url(https://github.com/max32002/JasonHandWritingFonts/blob/master/webfont/JasonHandwriting3-Regular.woff2) format("woff2")
+  , url(https://github.com/max32002/JasonHandWritingFonts/blob/master/webfont/JasonHandwriting3-Regular.woff) format("woff");
+}
+
+@font-face {
+  font-family: "JasonHandwriting4-Regular";
+  src: url(https://github.com/max32002/JasonHandWritingFonts/blob/master/webfont/JasonHandwriting4-Regular.woff2) format("woff2")
+  , url(https://github.com/max32002/JasonHandWritingFonts/blob/master/webfont/JasonHandwriting4-Regular.woff) format("woff");
+}

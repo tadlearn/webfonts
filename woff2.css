@@ -52,29 +52,29 @@
 @font-face {
   font-family: 'SweiToothpasteCJKtc-Regular';
   src: url(https://cdn.jsdelivr.net/gh/max32002/swei-toothpaste@2.0/WebFont/CJK%20TC/SweiToothpasteCJKtc-Regular.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/swei-toothpaste@2.0/WebFont/CJK%20TC/SweiToothpasteCJKtc-Regular.woff') format("woff");
+  , url(https://cdn.jsdelivr.net/gh/max32002/swei-toothpaste@2.0/WebFont/CJK%20TC/SweiToothpasteCJKtc-Regular.woff) format("woff");
 }
 
 @font-face {
   font-family: "JasonHandwriting1-Regular";
-  src: url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts@20210716/webfont/JasonHandwriting1-Regular.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts@20210716/webfont/JasonHandwriting1-Regular.woff) format("woff");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts/webfont/JasonHandwriting1-Regular.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts/webfont/JasonHandwriting1-Regular.woff) format("woff");
 }
 
 @font-face {
   font-family: "JasonHandwriting2-Regular";
-  src: url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts@20210716/webfont/JasonHandwriting2-Regular.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts@20210716/webfont/JasonHandwriting2-Regular.woff) format("woff");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts/webfont/JasonHandwriting2-Regular.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts/webfont/JasonHandwriting2-Regular.woff) format("woff");
 }
 
 @font-face {
   font-family: "JasonHandwriting3-Regular";
-  src: url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts@20210716/webfont/JasonHandwriting3-Regular.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts@20210716/webfont/JasonHandwriting3-Regular.woff) format("woff");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts/webfont/JasonHandwriting3-Regular.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts/webfont/JasonHandwriting3-Regular.woff) format("woff");
 }
 
 @font-face {
   font-family: "JasonHandwriting4-Regular";
-  src: url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts@20210716/webfont/JasonHandwriting4-Regular.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts@20210716/webfont/JasonHandwriting4-Regular.woff) format("woff");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts/webfont/JasonHandwriting4-Regular.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts/webfont/JasonHandwriting4-Regular.woff) format("woff");
 }
