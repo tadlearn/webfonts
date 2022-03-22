@@ -80,3 +80,9 @@
   src: url(https://github.com/max32002/JasonHandWritingFonts/blob/master/webfont/JasonHandwriting4-Regular.woff2) format("woff2"),
     url(https://github.com/max32002/JasonHandWritingFonts/blob/master/webfont/JasonHandwriting4-Regular.woff) format("woff");
 }
+
+/* 851電機文字 */
+@font-face {
+  font-family: "851DianJiWenZiTi-2";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/851DianJiWenZiTi-2.woff2) format("woff2");
+}
