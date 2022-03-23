@@ -102,3 +102,9 @@
   font-family: "crayon_1-1";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/crayon_1-1.woff2) format("woff2");
 }
+
+/* ：大波浪圓體 */
+@font-face {
+  font-family: "PopGothicCjkJp-Light-2";
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/PopGothicCjkJp-Light-2.woff2) format("woff2");
+}

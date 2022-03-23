@@ -29,9 +29,9 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - BoTa-2 ：波塔 https://github.com/go108go/Potta
 - ChaoJiXi-2 ：超級細ゴシック體 http://font.websozai.jp/line-font-mihon.html
 - crayon_1-1 ：黑板粉筆體 http://font.sumomo.ne.jp/font_2.html
-- TANUKIYouXingMAJIKKU ：たぬき油性マジック https://tanukifont.com/tanuki-permanent-marker/
-- DaBoLangYuanTi-CJK-JP-Light ：大波浪圓體 https://github.com/max32002/pop-gothic
+- PopGothicCjkJp-Light-2 ：大波浪圓體 https://github.com/max32002/pop-gothic
 - Uzura-ZiTi ：鵪鶉字體 http://azukifont.com/font/uzura.html
+- TANUKIYouXingMAJIKKU ：たぬき油性マジック https://tanukifont.com/tanuki-permanent-marker/
 - HanZiBiShunTiYuanBan ：漢字筆順體原版 https://www.fonts.net.cn/font-33863152524.html
 - Mushin-WuXinShouXie ：無心手寫 http://modi.jpn.org/font_mushin.php
 - YouZi ：佑字 https://github.com/Kinutafontfactory/Yuji
