@@ -221,3 +221,9 @@
   font-family: "PoSuiLingHaoZi";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/PoSuiLingHaoZi.woff2) format("woff2");
 }
+
+/* 黒薔薇 */
+@font-face {
+  font-family: "Qiang";
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/Qiang.woff2) format("woff2");
+}
