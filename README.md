@@ -32,9 +32,9 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - PopGothicCjkJp-Light-2:大波浪圓體 https://github.com/max32002/pop-gothic
 - Chalk-S-JP-2:粉筆體S
 - corp-round-v1-2:公司LOGO圓體 https://logotype.jp/font-corpmaru.html
+- HanZiBiShunZiTi-2:漢字筆順體原版 https://www.fonts.net.cn/font-33863152524.html
 - Uzura-ZiTi:鵪鶉字體 http://azukifont.com/font/uzura.html
 - TANUKIYouXingMAJIKKU:たぬき油性マジック https://tanukifont.com/tanuki-permanent-marker/
-- HanZiBiShunTiYuanBan:漢字筆順體原版 https://www.fonts.net.cn/font-33863152524.html
 - Mushin-WuXinShouXie:無心手寫 http://modi.jpn.org/font_mushin.php
 - YouZi:佑字 https://github.com/Kinutafontfactory/Yuji
 - KuLeiWaYuanTi-CJK-JP-Regular:苦累蛙圓體-CJK-JP Regular https://github.com/max32002/kurewa-gothic

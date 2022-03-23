@@ -122,3 +122,9 @@
   font-family: "corp-round-v1-2";
   src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/corp-round-v1-2.woff2) format("woff2");
 }
+
+/* 漢字筆順體原版 */
+@font-face {
+  font-family: "HanZiBiShunZiTi-2";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/HanZiBiShunZiTi-2.woff2) format("woff2");
+}
