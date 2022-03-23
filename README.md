@@ -31,19 +31,19 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - crayon_1-1:黑板粉筆體 http://font.sumomo.ne.jp/font_2.html
 - PopGothicCjkJp-Light-2:大波浪圓體 https://github.com/max32002/pop-gothic
 - Chalk-S-JP-2:粉筆體S
-- corp-round-v1-2:公司LOGO圓體 https://logotype.jp/font-corpmaru.html
-- HanZiBiShunZiTi-2:漢字筆順體原版 https://www.fonts.net.cn/font-33863152524.html
-- HengShanMaoBiCaoShu-2:衡山毛筆草書 https://opentype.jp/kouzansousho.htm
-- HengShanMaoXing-1:衡山毛筆行書 https://opentype.jp/kouzangyousho.htm
-- KaiseiTokumin-Bold-2:解星 B https://font-kai.jp/kaisei-sinmin.html
-- Kingnam-Maiyuan-2:荊南麥圓體 https://github.com/NightFurySL2001/JingNanMaiYuan
-- I-PenCrane-B-2:刻石錄鋼筆鶴體 https://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E9%8B%BC%E7%AD%86%E9%B6%B4%E9%AB%94
-- I-Ngaan-2:刻石錄顏體 https://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E9%A1%8F%E9%AB%94
-- KleeOne-Regular-2:克利蘿莉風字體 https://github.com/fontworks-fonts/Klee
-- KurewaGothicCjkJp-Regular-2:苦累蛙圓體-CJK-JP Regular https://github.com/max32002/kurewa-gothic
+- CorpRound:公司LOGO圓體 https://logotype.jp/font-corpmaru.html
+- HanZiBiShunZiTi:漢字筆順體原版 https://www.fonts.net.cn/font-33863152524.html
+- HengShanMaoBiCaoShu:衡山毛筆草書 https://opentype.jp/kouzansousho.htm
+- HengShanMaoXing:衡山毛筆行書 https://opentype.jp/kouzangyousho.htm
+- KaiseiTokumin:解星 B https://font-kai.jp/kaisei-sinmin.html
+- Kingnam-Maiyuan:荊南麥圓體 https://github.com/NightFurySL2001/JingNanMaiYuan
+- I-PenCrane-B:刻石錄鋼筆鶴體 https://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E9%8B%BC%E7%AD%86%E9%B6%B4%E9%AB%94
+- I-Ngaan:刻石錄顏體 https://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E9%A1%8F%E9%AB%94
+- KleeOne:克利蘿莉風字體 https://github.com/fontworks-fonts/Klee
+- Kurewa:苦累蛙圓體-CJK-JP Regular https://github.com/max32002/kurewa-gothic
 - Cubic:俐方體11號 https://github.com/ACh-K/Cubic-11
 - WuXinShouXieTi:無心手寫體 http://modi.jpn.org/font_mushin.php
-- nishiki-teki-2:馬克筆手寫 https://www.freejapanesefont.com/nishiki-teki-font-download/
+- NishikiTeki:馬克筆手寫 https://www.freejapanesefont.com/nishiki-teki-font-download/
 - Uzura-ZiTi:鵪鶉字體 http://azukifont.com/font/uzura.html
 - TANUKIYouXingMAJIKKU:たぬき油性マジック https://tanukifont.com/tanuki-permanent-marker/
 - YouZi:佑字 https://github.com/Kinutafontfactory/Yuji

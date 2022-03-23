@@ -117,61 +117,72 @@
 
 /* 公司LOGO圓體 */
 @font-face {
-  font-family: "corp-round-v1-2";
+  font-family: "CorpRound";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/corp-round-v1-2.woff2) format("woff2");
 }
 
 /* 漢字筆順體原版 */
 @font-face {
-  font-family: "HanZiBiShunZiTi-2";
+  font-family: "HanZiBiShunZiTi";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/HanZiBiShunZiTi-2.woff2) format("woff2");
 }
 
 /* 衡山毛筆草書 */
 @font-face {
-  font-family: "HengShanMaoBiCaoShu-2";
+  font-family: "HengShanMaoBiCaoShu";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/HengShanMaoBiCaoShu-2.woff2) format("woff2");
 }
 
 /* 衡山毛筆行書 */
 @font-face {
-  font-family: "HengShanMaoXing-1";
+  font-family: "HengShanMaoXing";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/HengShanMaoXing-1.woff2) format("woff2");
 }
 
 /* 解星 B */
 @font-face {
-  font-family: "KaiseiTokumin-Bold-2";
+  font-family: "KaiseiTokumin";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/KaiseiTokumin-Bold-2.woff2) format("woff2");
 }
 
 /* 荊南麥圓體 */
 @font-face {
-  font-family: "Kingnam-Maiyuan-2";
+  font-family: "Kingnam-Maiyuan";
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/Kingnam-Maiyuan-2.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "荊南麥圓體";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/Kingnam-Maiyuan-2.woff2) format("woff2");
 }
 
 /* 刻石錄鋼筆鶴體 */
 @font-face {
-  font-family: "I-PenCrane-B-2";
+  font-family: "I-PenCrane-B";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/I-PenCrane-B-2.woff2) format("woff2");
 }
 
 /* 刻石錄顏體 */
 @font-face {
-  font-family: "I-Ngaan-2";
+  font-family: "I-Ngaan";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/I-Ngaan-2.woff2) format("woff2");
 }
 
 /* 克利蘿莉風字體 */
 @font-face {
-  font-family: "KleeOne-Regular-2";
+  font-family: "KleeOne";
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/KleeOne-Regular-2.woff2) format("woff2");
+}
+
+/* 克利蘿莉風字體 */
+@font-face {
+  font-family: "克利蘿莉風字體";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/KleeOne-Regular-2.woff2) format("woff2");
 }
 
 /* 苦累蛙圓體 */
 @font-face {
-  font-family: "KurewaGothicCjkJp-Regular-2";
+  font-family: "Kurewa";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/KurewaGothicCjkJp-Regular-2.woff2) format("woff2");
 }
 
