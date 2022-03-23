@@ -206,3 +206,9 @@
   font-family: "PangPangZhuRouTi";
   src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/PangPangZhuRouTi-2.woff2) format("woff2");
 }
+
+/* 破碎零號字 */
+@font-face {
+  font-family: "PoSuiLingHaoZi";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/PoSuiLingHaoZi.woff2) format("woff2");
+}

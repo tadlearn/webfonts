@@ -215,3 +215,9 @@
   font-family: "PangPangZhuRouTi";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/PangPangZhuRouTi-2.woff2) format("woff2");
 }
+
+/* 破碎零號字 */
+@font-face {
+  font-family: "PoSuiLingHaoZi";
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/PoSuiLingHaoZi.woff2) format("woff2");
+}
