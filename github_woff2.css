@@ -128,3 +128,9 @@
   font-family: "HanZiBiShunZiTi-2";
   src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/HanZiBiShunZiTi-2.woff2) format("woff2");
 }
+
+/* 衡山毛筆草書 */
+@font-face {
+  font-family: "HengShanMaoBiCaoShu-2";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/HengShanMaoBiCaoShu-2.woff2) format("woff2");
+}

@@ -33,6 +33,8 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - Chalk-S-JP-2:粉筆體S
 - corp-round-v1-2:公司LOGO圓體 https://logotype.jp/font-corpmaru.html
 - HanZiBiShunZiTi-2:漢字筆順體原版 https://www.fonts.net.cn/font-33863152524.html
+- HengShanMaoBiCaoShu-2:衡山毛筆草書 https://opentype.jp/kouzansousho.htm
+- HengShanMaoXing:衡山毛筆行書 https://opentype.jp/kouzangyousho.htm
 - Uzura-ZiTi:鵪鶉字體 http://azukifont.com/font/uzura.html
 - TANUKIYouXingMAJIKKU:たぬき油性マジック https://tanukifont.com/tanuki-permanent-marker/
 - Mushin-WuXinShouXie:無心手寫 http://modi.jpn.org/font_mushin.php
@@ -55,8 +57,6 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - ShiWeiYongTuiHeiTi-CJK-JP-Black：獅尾詠腿黑體 https://github.com/max32002/swei-fan-leg
 - LiFangTi11Hao:俐方體11號 https://github.com/ACh-K/Cubic-11
 - YOzShouXieTi-RS:YOz手寫體 RS
-- HengShanMaoXing:衡山毛筆行書 https://opentype.jp/kouzangyousho.htm
-- HengShanMaoBiCaoShu:衡山毛筆草書 https://opentype.jp/kouzansousho.htm
 - YingZhuiXingShu:英椎行書 https://www.ac-font.com/jp/detail_jb_006.php
 - JieXing-B:解星 B https://font-kai.jp/kaisei-sinmin.html
 - PoSuiLingHaoZi:破碎零號字 https://cute-freefont.flop.jp/flop_zero-gochic.html
