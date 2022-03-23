@@ -134,3 +134,9 @@
   font-family: "HengShanMaoBiCaoShu-2";
   src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/HengShanMaoBiCaoShu-2.woff2) format("woff2");
 }
+
+/* 衡山毛筆行書 */
+@font-face {
+  font-family: "HengShanMaoXing-1";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/HengShanMaoXing-1.woff2) format("woff2");
+}

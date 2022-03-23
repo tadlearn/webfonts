@@ -34,7 +34,7 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - corp-round-v1-2:公司LOGO圓體 https://logotype.jp/font-corpmaru.html
 - HanZiBiShunZiTi-2:漢字筆順體原版 https://www.fonts.net.cn/font-33863152524.html
 - HengShanMaoBiCaoShu-2:衡山毛筆草書 https://opentype.jp/kouzansousho.htm
-- HengShanMaoXing:衡山毛筆行書 https://opentype.jp/kouzangyousho.htm
+- HengShanMaoXing-1:衡山毛筆行書 https://opentype.jp/kouzangyousho.htm
 - Uzura-ZiTi:鵪鶉字體 http://azukifont.com/font/uzura.html
 - TANUKIYouXingMAJIKKU:たぬき油性マジック https://tanukifont.com/tanuki-permanent-marker/
 - Mushin-WuXinShouXie:無心手寫 http://modi.jpn.org/font_mushin.php
