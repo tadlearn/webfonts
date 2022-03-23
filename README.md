@@ -42,9 +42,9 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - KleeOne-Regular-2:克利蘿莉風字體 https://github.com/fontworks-fonts/Klee
 - KurewaGothicCjkJp-Regular-2:苦累蛙圓體-CJK-JP Regular https://github.com/max32002/kurewa-gothic
 - Cubic:俐方體11號 https://github.com/ACh-K/Cubic-11
+- WuXinShouXieTi:無心手寫體 http://modi.jpn.org/font_mushin.php
 - Uzura-ZiTi:鵪鶉字體 http://azukifont.com/font/uzura.html
 - TANUKIYouXingMAJIKKU:たぬき油性マジック https://tanukifont.com/tanuki-permanent-marker/
-- Mushin-WuXinShouXie:無心手寫 http://modi.jpn.org/font_mushin.php
 - YouZi:佑字 https://github.com/Kinutafontfactory/Yuji
 - QingLiuShuSIMO2-T:青柳隷書 https://opentype.jp/aoyagireisho.htm
 - ZhaiZaiJiaFenTiaoTian:宅在家粉條甜 https://home.gamer.com.tw/creationDetail.php?sn=5378926

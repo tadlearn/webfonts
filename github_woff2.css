@@ -182,3 +182,9 @@
   font-family: "Cubic";
   src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/Cubic.woff2) format("woff2");
 }
+
+/* 無心手寫體 */
+@font-face {
+  font-family: "WuXinShouXieTi";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/WuXinShouXieTi-2.woff2) format("woff2");
+}
