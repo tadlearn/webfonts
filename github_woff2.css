@@ -105,8 +105,14 @@
   src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/crayon_1-1.woff2) format("woff2");
 }
 
-/* ：大波浪圓體 */
+/* 大波浪圓體 */
 @font-face {
   font-family: "PopGothicCjkJp-Light-2";
   src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/PopGothicCjkJp-Light-2.woff2) format("woff2");
+}
+
+/* 粉筆體 */
+@font-face {
+  font-family: "Chalk-S-JP-2";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/Chalk-S-JP-2.woff2) format("woff2");
 }

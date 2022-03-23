@@ -30,6 +30,7 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - ChaoJiXi-2 ：超級細ゴシック體 http://font.websozai.jp/line-font-mihon.html
 - crayon_1-1 ：黑板粉筆體 http://font.sumomo.ne.jp/font_2.html
 - PopGothicCjkJp-Light-2 ：大波浪圓體 https://github.com/max32002/pop-gothic
+- FenBiTiS ：粉筆體S
 - Uzura-ZiTi ：鵪鶉字體 http://azukifont.com/font/uzura.html
 - TANUKIYouXingMAJIKKU ：たぬき油性マジック https://tanukifont.com/tanuki-permanent-marker/
 - HanZiBiShunTiYuanBan ：漢字筆順體原版 https://www.fonts.net.cn/font-33863152524.html
@@ -58,7 +59,6 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - HengShanMaoBiCaoShu ：衡山毛筆草書 https://opentype.jp/kouzansousho.htm
 - YingZhuiXingShu ：英椎行書 https://www.ac-font.com/jp/detail_jb_006.php
 - JieXing-B ：解星 B https://font-kai.jp/kaisei-sinmin.html
-- FenBiTiS  ：粉筆體S http://font.sumomo.ne.jp/font_2.html
 - PoSuiLingHaoZi ：破碎零號字 https://cute-freefont.flop.jp/flop_zero-gochic.html
 - Qiang ：黒薔薇 http://modi.jpn.org/font_amemuchi-cinderella.php
 - PangPangZhuRouTi ：胖胖豬肉體 http://www.fontna.com/blog/1651/
