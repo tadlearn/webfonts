@@ -86,3 +86,9 @@
   font-family: "851DianJiWenZiTi-2";
   src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/851DianJiWenZiTi-2.woff2) format("woff2");
 }
+
+/* 波塔 */
+@font-face {
+  font-family: "BoTa-2";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/BoTa-2.woff2) format("woff2");
+}

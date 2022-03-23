@@ -26,12 +26,12 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - JasonHandwriting3-Regular ：清松手寫體3 https://jasonfonts.max-everyday.com
 - JasonHandwriting4-Regular ：清松手寫體4 https://jasonfonts.max-everyday.com
 - 851DianJiWenZiTi-2 ：851電機文字 https://pm85122.onamae.jp/851Gkktt.html
+- BoTaOne ：波塔 https://github.com/go108go/Potta
 - TANUKIYouXingMAJIKKU ：たぬき油性マジック https://tanukifont.com/tanuki-permanent-marker/
 - ChaoJiXiGOSHIKKUTi ：超极细ゴシック体 http://font.websozai.jp/line-font-mihon.html
 - DaBoLangYuanTi-CJK-JP-Light ：大波浪圓體 https://github.com/max32002/pop-gothic
 - Uzura-ZiTi ：鵪鶉字體 http://azukifont.com/font/uzura.html
 - HanZiBiShunTiYuanBan ：漢字筆順體原版 https://www.fonts.net.cn/font-33863152524.html
-- BoTaOne ：波塔 https://github.com/go108go/Potta
 - Mushin-WuXinShouXie ：無心手寫 http://modi.jpn.org/font_mushin.php
 - YouZi ：佑字 https://github.com/Kinutafontfactory/Yuji
 - KuLeiWaYuanTi-CJK-JP-Regular ：苦累蛙圓體-CJK-JP Regular https://github.com/max32002/kurewa-gothic
