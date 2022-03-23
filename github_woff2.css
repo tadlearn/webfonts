@@ -146,3 +146,9 @@
   font-family: "KaiseiTokumin-Bold-2";
   src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/KaiseiTokumin-Bold-2.woff2) format("woff2");
 }
+
+/* 荊南麥圓體 */
+@font-face {
+  font-family: "Kingnam-Maiyuan-2";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/Kingnam-Maiyuan-2.woff2) format("woff2");
+}
