@@ -194,8 +194,15 @@
   font-family: "NishikiTeki";
   src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/nishiki-teki-2.woff2) format("woff2");
 }
+
 /* 豆豆體 */
 @font-face {
   font-family: "Doudouziti";
   src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/doudouziti.woff2) format("woff2");
+}
+
+/* 胖胖豬肉體 */
+@font-face {
+  font-family: "PangPangZhuRouTi";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/PangPangZhuRouTi-2.woff2) format("woff2");
 }

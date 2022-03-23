@@ -209,3 +209,9 @@
   font-family: "Doudouziti";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/doudouziti.woff2) format("woff2");
 }
+
+/* 胖胖豬肉體 */
+@font-face {
+  font-family: "PangPangZhuRouTi";
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/PangPangZhuRouTi-2.woff2) format("woff2");
+}

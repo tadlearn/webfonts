@@ -45,6 +45,7 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - WuXinShouXieTi:無心手寫體 http://modi.jpn.org/font_mushin.php
 - NishikiTeki:馬克筆手寫 https://www.freejapanesefont.com/nishiki-teki-font-download/
 - Doudouziti:豆豆體 https://forest.watch.impress.co.jp/library/software/elmer/
+- PangPangZhuRouTi:胖胖豬肉體 http://www.fontna.com/blog/1651/
 - Uzura-ZiTi:鵪鶉字體 http://azukifont.com/font/uzura.html
 - TANUKIYouXingMAJIKKU:たぬき油性マジック https://tanukifont.com/tanuki-permanent-marker/
 - YouZi:佑字 https://github.com/Kinutafontfactory/Yuji
@@ -61,5 +62,4 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - YingZhuiXingShu:英椎行書 https://www.ac-font.com/jp/detail_jb_006.php
 - PoSuiLingHaoZi:破碎零號字 https://cute-freefont.flop.jp/flop_zero-gochic.html
 - Qiang:黒薔薇 http://modi.jpn.org/font_amemuchi-cinderella.php
-- PangPangZhuRouTi:胖胖豬肉體 http://www.fontna.com/blog/1651/
 - YuanYingHeiTi:源影黑體 https://0115765.com/archives/1120
