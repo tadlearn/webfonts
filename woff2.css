@@ -148,7 +148,8 @@
 /* 荊南麥圓體 */
 @font-face {
   font-family: "Kingnam-Maiyuan";
-  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/Kingnam-Maiyuan.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/Kingnam-Maiyuan.woff2) format("woff2"),
+  url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/Kingnam-Maiyuan.woff) format("woff");
 }
 
 @font-face {
