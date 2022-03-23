@@ -218,3 +218,15 @@
   font-family: "Qiang";
   src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/Qiang.woff2) format("woff2");
 }
+
+/* 千圖馬克手寫體 */
+@font-face {
+  font-family: "QianTuMaKeShouXieTi";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/QianTuMaKeShouXieTi.woff2) format("woff2");
+}
+
+/* 青柳隷書 */
+@font-face {
+  font-family: "QingLiuShu";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/QingLiuShu.woff2) format("woff2");
+}
