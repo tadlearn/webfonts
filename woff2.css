@@ -34,7 +34,7 @@
 
 /* 字體圈欣意冠黑體 */
 @font-face {
-  font-family: "XinYiGuanHeiTi-Regular";
+  font-family: "XinYiGuanHeiTi";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/XinYiGuanHeiTi-Regular.woff2) format("woff2");
 }
 
@@ -46,72 +46,72 @@
 
 /* 獅尾牙膏圓體 */
 @font-face {
-  font-family: "SweiToothpasteCJKtc-Regular";
+  font-family: "SweiToothpasteCJKtc";
   src: url(https://cdn.jsdelivr.net/gh/max32002/swei-toothpaste@2.0/WebFont/CJK%20TC/SweiToothpasteCJKtc-Regular.woff2) format("woff2"),
     url(https://cdn.jsdelivr.net/gh/max32002/swei-toothpaste@2.0/WebFont/CJK%20TC/SweiToothpasteCJKtc-Regular.woff) format("woff");
 }
 
 /* 清松手寫體1 */
 @font-face {
-  font-family: "JasonHandwriting1-Regular";
+  font-family: "JasonHandwriting1";
   src: url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts/webfont/JasonHandwriting1-Regular.woff2) format("woff2"),
     url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts/webfont/JasonHandwriting1-Regular.woff) format("woff");
 }
 
 /* 清松手寫體2 */
 @font-face {
-  font-family: "JasonHandwriting2-Regular";
+  font-family: "JasonHandwriting2";
   src: url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts/webfont/JasonHandwriting2-Regular.woff2) format("woff2"),
     url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts/webfont/JasonHandwriting2-Regular.woff) format("woff");
 }
 
 /* 清松手寫體3 */
 @font-face {
-  font-family: "JasonHandwriting3-Regular";
+  font-family: "JasonHandwriting3";
   src: url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts/webfont/JasonHandwriting3-Regular.woff2) format("woff2"),
     url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts/webfont/JasonHandwriting3-Regular.woff) format("woff");
 }
 
 /* 清松手寫體4 */
 @font-face {
-  font-family: "JasonHandwriting4-Regular";
+  font-family: "JasonHandwriting4";
   src: url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts/webfont/JasonHandwriting4-Regular.woff2) format("woff2"),
     url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts/webfont/JasonHandwriting4-Regular.woff) format("woff");
 }
 
 /* 851電機文字 */
 @font-face {
-  font-family: "851DianJiWenZiTi-2";
+  font-family: "851DianJiWenZiTi";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/851DianJiWenZiTi-2.woff2) format("woff2");
 }
 
 /* 波塔 */
 @font-face {
-  font-family: "BoTa-2";
+  font-family: "BoTa";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/BoTa-2.woff2) format("woff2");
 }
 
 /* 超級細ゴシック體 */
 @font-face {
-  font-family: "ChaoJiXi-2";
+  font-family: "ChaoJiXi";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/ChaoJiXi-2.woff2) format("woff2");
 }
 
 /* 黑板粉筆體 */
 @font-face {
-  font-family: "crayon_1-1";
+  font-family: "Crayon";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/crayon_1-1.woff2) format("woff2");
 }
 
 /* 大波浪圓體 */
 @font-face {
-  font-family: "PopGothicCjkJp-Light-2";
+  font-family: "PopGothicCjkJp";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/PopGothicCjkJp-Light-2.woff2) format("woff2");
 }
 
 /* 粉筆體 */
 @font-face {
-  font-family: "Chalk-S-JP-2";
+  font-family: "Chalk";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/Chalk-S-JP-2.woff2) format("woff2");
 }
 
@@ -202,4 +202,10 @@
 @font-face {
   font-family: "NishikiTeki";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/nishiki-teki-2.woff2) format("woff2");
+}
+
+/* 豆豆體 */
+@font-face {
+  font-family: "Doudouziti";
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/doudouziti.woff2) format("woff2");
 }

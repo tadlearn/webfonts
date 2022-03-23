@@ -18,19 +18,19 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - Mamelon:マメロン（mamelon）字體 https://moji-waku.com/mamelon/
 - HanWangWeBe:王漢宗魏碑體
 - HanWangMingBlack:王漢宗超明體
-- XinYiGuanHeiTi-Regular:字體圈欣意冠黑體 https://www.maoken.com/freefonts/3664.html
+- XinYiGuanHeiTi:字體圈欣意冠黑體 https://www.maoken.com/freefonts/3664.html
 - Iansui:芫荽體 https://github.com/ButTaiwan/iansui
-- SweiToothpasteCJKtc-Regular:獅尾牙膏圓體 https://github.com/max32002/swei-toothpaste
-- JasonHandwriting1-Regular:清松手寫體1 https://jasonfonts.max-everyday.com
-- JasonHandwriting2-Regular:清松手寫體2 https://jasonfonts.max-everyday.com
-- JasonHandwriting3-Regular:清松手寫體3 https://jasonfonts.max-everyday.com
-- JasonHandwriting4-Regular:清松手寫體4 https://jasonfonts.max-everyday.com
-- 851DianJiWenZiTi-2:851電機文字 https://pm85122.onamae.jp/851Gkktt.html
-- BoTa-2:波塔 https://github.com/go108go/Potta
-- ChaoJiXi-2:超級細ゴシック體 http://font.websozai.jp/line-font-mihon.html
-- crayon_1-1:黑板粉筆體 http://font.sumomo.ne.jp/font_2.html
-- PopGothicCjkJp-Light-2:大波浪圓體 https://github.com/max32002/pop-gothic
-- Chalk-S-JP-2:粉筆體S
+- SweiToothpasteCJKtc:獅尾牙膏圓體 https://github.com/max32002/swei-toothpaste
+- JasonHandwriting1:清松手寫體1 https://jasonfonts.max-everyday.com
+- JasonHandwriting2:清松手寫體2 https://jasonfonts.max-everyday.com
+- JasonHandwriting3:清松手寫體3 https://jasonfonts.max-everyday.com
+- JasonHandwriting4:清松手寫體4 https://jasonfonts.max-everyday.com
+- 851DianJiWenZiTi:851電機文字 https://pm85122.onamae.jp/851Gkktt.html
+- BoTa:波塔 https://github.com/go108go/Potta
+- ChaoJiXi:超級細ゴシック體 http://font.websozai.jp/line-font-mihon.html
+- Crayon:黑板粉筆體 http://font.sumomo.ne.jp/font_2.html
+- PopGothicCjkJp:大波浪圓體 https://github.com/max32002/pop-gothic
+- Chalk:粉筆體S
 - CorpRound:公司LOGO圓體 https://logotype.jp/font-corpmaru.html
 - HanZiBiShunZiTi:漢字筆順體原版 https://www.fonts.net.cn/font-33863152524.html
 - HengShanMaoBiCaoShu:衡山毛筆草書 https://opentype.jp/kouzansousho.htm
@@ -44,13 +44,13 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - Cubic:俐方體11號 https://github.com/ACh-K/Cubic-11
 - WuXinShouXieTi:無心手寫體 http://modi.jpn.org/font_mushin.php
 - NishikiTeki:馬克筆手寫 https://www.freejapanesefont.com/nishiki-teki-font-download/
+- Doudouziti:豆豆體 https://forest.watch.impress.co.jp/library/software/elmer/
 - Uzura-ZiTi:鵪鶉字體 http://azukifont.com/font/uzura.html
 - TANUKIYouXingMAJIKKU:たぬき油性マジック https://tanukifont.com/tanuki-permanent-marker/
 - YouZi:佑字 https://github.com/Kinutafontfactory/Yuji
 - QingLiuShuSIMO2-T:青柳隷書 https://opentype.jp/aoyagireisho.htm
 - ZhaiZaiJiaFenTiaoTian:宅在家粉條甜 https://home.gamer.com.tw/creationDetail.php?sn=5378926
 - ZhanKuQingKeHuangYouTi:站酷慶科黃油體 https://www.zcool.com.cn/work/ZMTg5MDEyMDQ=.html
-- P:豆豆體 https://forest.watch.impress.co.jp/library/software/elmer/
 - ZuoZuoMuZiTi:佐佐木字體 https://booth.pm/ja/items/1930534
 - XianErTi:賢二體 http://fontvip.com/HanYi-Fonts/75197.html
 - QianTuMaKeShouXieTi:千圖馬克手寫體 https://www.58pic.com/index.php?m=qtwFontPage&a=index
