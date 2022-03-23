@@ -1,7 +1,6 @@
 /* jf open 粉圓 */
 @font-face {
   font-family: "jf-openhuninn";
-
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/jf-openhuninn.woff2) format("woff2");
   /* Modern Browsers */
   font-weight: normal;
@@ -11,7 +10,6 @@
 /* マメロン（mamelon）字體 */
 @font-face {
   font-family: "Mamelon";
-
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/Mamelon.woff2) format("woff2");
   /* Modern Browsers */
   font-weight: normal;
@@ -90,5 +88,11 @@
 /* 波塔 */
 @font-face {
   font-family: "BoTa-2";
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/BoTa-2.woff2) format("woff2");
+}
+
+/* 超极细ゴシック体 */
+@font-face {
+  font-family: "ChaoJiXi-2";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/BoTa-2.woff2) format("woff2");
 }

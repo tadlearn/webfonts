@@ -92,3 +92,9 @@
   font-family: "BoTa-2";
   src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/BoTa-2.woff2) format("woff2");
 }
+
+/* 超极细ゴシック体 */
+@font-face {
+  font-family: "ChaoJiXi-2";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/BoTa-2.woff2) format("woff2");
+}
