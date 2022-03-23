@@ -114,3 +114,9 @@
   font-family: "Chalk-S-JP-2";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/Chalk-S-JP-2.woff2) format("woff2");
 }
+
+/* 公司LOGO圓體 */
+@font-face {
+  font-family: "corp-round-v1-2";
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/corp-round-v1-2.woff2) format("woff2");
+}
