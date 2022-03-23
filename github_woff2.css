@@ -140,3 +140,9 @@
   font-family: "HengShanMaoXing-1";
   src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/HengShanMaoXing-1.woff2) format("woff2");
 }
+
+/* 解星 B */
+@font-face {
+  font-family: "KaiseiTokumin-Bold-2";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/KaiseiTokumin-Bold-2.woff2) format("woff2");
+}
