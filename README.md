@@ -38,6 +38,8 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - KaiseiTokumin-Bold-2:解星 B https://font-kai.jp/kaisei-sinmin.html
 - Kingnam-Maiyuan-2:荊南麥圓體 https://github.com/NightFurySL2001/JingNanMaiYuan
 - I-PenCrane-B-2:刻石錄鋼筆鶴體 https://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E9%8B%BC%E7%AD%86%E9%B6%B4%E9%AB%94
+- I-Ngaan-2:刻石錄顏體 https://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E9%A1%8F%E9%AB%94
+- KleeOne-Regular-2:克利蘿莉風字體 https://github.com/fontworks-fonts/Klee
 - Uzura-ZiTi:鵪鶉字體 http://azukifont.com/font/uzura.html
 - TANUKIYouXingMAJIKKU:たぬき油性マジック https://tanukifont.com/tanuki-permanent-marker/
 - Mushin-WuXinShouXie:無心手寫 http://modi.jpn.org/font_mushin.php
@@ -45,12 +47,10 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - KuLeiWaYuanTi-CJK-JP-Regular:苦累蛙圓體-CJK-JP Regular https://github.com/max32002/kurewa-gothic
 - QingLiuShuSIMO2-T:青柳隷書 https://opentype.jp/aoyagireisho.htm
 - ZhaiZaiJiaFenTiaoTian:宅在家粉條甜 https://home.gamer.com.tw/creationDetail.php?sn=5378926
-- KeShiLuYanTi:刻石錄顏體 https://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E9%A1%8F%E9%AB%94
 - ZhanKuQingKeHuangYouTi:站酷慶科黃油體 https://www.zcool.com.cn/work/ZMTg5MDEyMDQ=.html
 - P:豆豆體 https://forest.watch.impress.co.jp/library/software/elmer/
 - ZuoZuoMuZiTi:佐佐木字體 https://booth.pm/ja/items/1930534
 - XianErTi:賢二體 http://fontvip.com/HanYi-Fonts/75197.html
-- KleeOne-KeLiLuoLiFengZiTi:克利蘿莉風字體 https://github.com/fontworks-fonts/Klee
 - QianTuMaKeShouXieTi:千圖馬克手寫體 https://www.58pic.com/index.php?m=qtwFontPage&a=index
 - Nishiki-tekiMaKeBiShouXie:馬克筆手寫 https://www.freejapanesefont.com/nishiki-teki-font-download/
 - TanugoTangGuoShouXieTi-Bold:糖果手寫體 Bold https://github.com/tanukifont/Tanugo

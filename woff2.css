@@ -156,3 +156,15 @@
   font-family: "I-PenCrane-B-2";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/I-PenCrane-B-2.woff2) format("woff2");
 }
+
+/* 刻石錄顏體 */
+@font-face {
+  font-family: "I-Ngaan-2";
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/I-Ngaan-2.woff2) format("woff2");
+}
+
+/* 克利蘿莉風字體 */
+@font-face {
+  font-family: "KleeOne-Regular-2";
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/KleeOne-Regular-2.woff2) format("woff2");
+}
