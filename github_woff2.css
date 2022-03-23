@@ -152,3 +152,9 @@
   font-family: "Kingnam-Maiyuan-2";
   src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/Kingnam-Maiyuan-2.woff2) format("woff2");
 }
+
+/* 刻石錄鋼筆鶴體 */
+@font-face {
+  font-family: "I-PenCrane-B-2";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/I-PenCrane-B-2.woff2) format("woff2");
+}
