@@ -91,8 +91,14 @@
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/BoTa-2.woff2) format("woff2");
 }
 
-/* 超极细ゴシック体 */
+/* 超級細ゴシック體 */
 @font-face {
   font-family: "ChaoJiXi-2";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/BoTa-2.woff2) format("woff2");
+}
+
+/* 黑板粉筆體 */
+@font-face {
+  font-family: "crayon_1-1";
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/crayon_1-1.woff2) format("woff2");
 }
