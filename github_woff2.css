@@ -49,36 +49,36 @@
 /* 獅尾牙膏圓體 */
 @font-face {
   font-family: "SweiToothpasteCJKtc-Regular";
-  src: url(https://github.com/max32002/swei-toothpaste/raw/master/WebFont/CJK%20TC/SweiToothpasteCJKtc-Regular.woff2) format("woff2"),
-    url(https://github.com/max32002/swei-toothpaste/raw/master/WebFont/CJK%20TC/SweiToothpasteCJKtc-Regular.woff) format("woff");
+  src: url(https://raw.githubusercontent.com/max32002/swei-toothpaste/master/WebFont/CJK%20TC/SweiToothpasteCJKtc-Regular.woff2) format("woff2"),
+    url(https://raw.githubusercontent.com/max32002/swei-toothpaste/master/WebFont/CJK%20TC/SweiToothpasteCJKtc-Regular.woff) format("woff");
 }
 
 /* 清松手寫體1 */
 @font-face {
   font-family: "JasonHandwriting1-Regular";
-  src: url(https://github.com/max32002/JasonHandWritingFonts/blob/master/webfont/JasonHandwriting1-Regular.woff2) format("woff2"),
-    url(https://github.com/max32002/JasonHandWritingFonts/blob/master/webfont/JasonHandwriting1-Regular.woff) format("woff");
+  src: url(https://raw.githubusercontent.com/max32002/JasonHandWritingFonts/master/webfont/JasonHandwriting1-Regular.woff2) format("woff2"),
+    url(https://raw.githubusercontent.com/max32002/JasonHandWritingFonts/master/webfont/JasonHandwriting1-Regular.woff) format("woff");
 }
 
 /* 清松手寫體2 */
 @font-face {
   font-family: "JasonHandwriting2-Regular";
-  src: url(https://github.com/max32002/JasonHandWritingFonts/blob/master/webfont/JasonHandwriting2-Regular.woff2) format("woff2"),
-    url(https://github.com/max32002/JasonHandWritingFonts/blob/master/webfont/JasonHandwriting2-Regular.woff) format("woff");
+  src: url(https://raw.githubusercontent.com/max32002/JasonHandWritingFonts/master/webfont/JasonHandwriting2-Regular.woff2) format("woff2"),
+    url(https://raw.githubusercontent.com/max32002/JasonHandWritingFonts/master/webfont/JasonHandwriting2-Regular.woff) format("woff");
 }
 
 /* 清松手寫體3 */
 @font-face {
   font-family: "JasonHandwriting3-Regular";
-  src: url(https://github.com/max32002/JasonHandWritingFonts/blob/master/webfont/JasonHandwriting3-Regular.woff2) format("woff2"),
-    url(https://github.com/max32002/JasonHandWritingFonts/blob/master/webfont/JasonHandwriting3-Regular.woff) format("woff");
+  src: url(https://raw.githubusercontent.com/max32002/JasonHandWritingFonts/master/webfont/JasonHandwriting3-Regular.woff2) format("woff2"),
+    url(https://raw.githubusercontent.com/max32002/JasonHandWritingFonts/master/webfont/JasonHandwriting3-Regular.woff) format("woff");
 }
 
 /* 清松手寫體4 */
 @font-face {
   font-family: "JasonHandwriting4-Regular";
-  src: url(https://github.com/max32002/JasonHandWritingFonts/blob/master/webfont/JasonHandwriting4-Regular.woff2) format("woff2"),
-    url(https://github.com/max32002/JasonHandWritingFonts/blob/master/webfont/JasonHandwriting4-Regular.woff) format("woff");
+  src: url(https://raw.githubusercontent.com/max32002/JasonHandWritingFonts/master/webfont/JasonHandwriting4-Regular.woff2) format("woff2"),
+    url(https://raw.githubusercontent.com/max32002/JasonHandWritingFonts/master/webfont/JasonHandwriting4-Regular.woff) format("woff");
 }
 
 /* 851電機文字 */
