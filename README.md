@@ -43,6 +43,7 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - KurewaGothicCjkJp-Regular-2:苦累蛙圓體-CJK-JP Regular https://github.com/max32002/kurewa-gothic
 - Cubic:俐方體11號 https://github.com/ACh-K/Cubic-11
 - WuXinShouXieTi:無心手寫體 http://modi.jpn.org/font_mushin.php
+- nishiki-teki-2:馬克筆手寫 https://www.freejapanesefont.com/nishiki-teki-font-download/
 - Uzura-ZiTi:鵪鶉字體 http://azukifont.com/font/uzura.html
 - TANUKIYouXingMAJIKKU:たぬき油性マジック https://tanukifont.com/tanuki-permanent-marker/
 - YouZi:佑字 https://github.com/Kinutafontfactory/Yuji
@@ -53,7 +54,6 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - ZuoZuoMuZiTi:佐佐木字體 https://booth.pm/ja/items/1930534
 - XianErTi:賢二體 http://fontvip.com/HanYi-Fonts/75197.html
 - QianTuMaKeShouXieTi:千圖馬克手寫體 https://www.58pic.com/index.php?m=qtwFontPage&a=index
-- Nishiki-tekiMaKeBiShouXie:馬克筆手寫 https://www.freejapanesefont.com/nishiki-teki-font-download/
 - TanugoTangGuoShouXieTi-Bold:糖果手寫體 Bold https://github.com/tanukifont/Tanugo
 - TanugoTangGuoShouXieTi-Round-Regular:糖果手寫體 Round Regular https://github.com/tanukifont/Tanugo
 - ShiWeiYongTuiHeiTi-CJK-JP-Black：獅尾詠腿黑體 https://github.com/max32002/swei-fan-leg

@@ -188,3 +188,9 @@
   font-family: "WuXinShouXieTi";
   src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/WuXinShouXieTi-2.woff2) format("woff2");
 }
+
+/* 馬克筆手寫體 */
+@font-face {
+  font-family: "NishikiTeki";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/nishiki-teki-2.woff2) format("woff2");
+}

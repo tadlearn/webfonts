@@ -181,9 +181,14 @@
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/Cubic.woff2) format("woff2");
 }
 
-
 /* 無心手寫體 */
 @font-face {
   font-family: "WuXinShouXieTi";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/WuXinShouXieTi-2.woff2) format("woff2");
+}
+
+/* 馬克筆手寫體 */
+@font-face {
+  font-family: "NishikiTeki";
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/nishiki-teki-2.woff2) format("woff2");
 }
