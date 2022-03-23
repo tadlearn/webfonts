@@ -148,12 +148,12 @@
 /* 荊南麥圓體 */
 @font-face {
   font-family: "Kingnam-Maiyuan";
-  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/Kingnam-Maiyuan-2.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/Kingnam-Maiyuan.woff2) format("woff2");
 }
 
 @font-face {
   font-family: "荊南麥圓體";
-  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/Kingnam-Maiyuan-2.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/Kingnam-Maiyuan.woff2) format("woff2");
 }
 
 /* 刻石錄鋼筆鶴體 */
