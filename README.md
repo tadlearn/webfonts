@@ -40,11 +40,12 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - I-PenCrane-B-2:刻石錄鋼筆鶴體 https://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E9%8B%BC%E7%AD%86%E9%B6%B4%E9%AB%94
 - I-Ngaan-2:刻石錄顏體 https://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E9%A1%8F%E9%AB%94
 - KleeOne-Regular-2:克利蘿莉風字體 https://github.com/fontworks-fonts/Klee
+- KurewaGothicCjkJp-Regular-2:苦累蛙圓體-CJK-JP Regular https://github.com/max32002/kurewa-gothic
+- Cubic:俐方體11號 https://github.com/ACh-K/Cubic-11
 - Uzura-ZiTi:鵪鶉字體 http://azukifont.com/font/uzura.html
 - TANUKIYouXingMAJIKKU:たぬき油性マジック https://tanukifont.com/tanuki-permanent-marker/
 - Mushin-WuXinShouXie:無心手寫 http://modi.jpn.org/font_mushin.php
 - YouZi:佑字 https://github.com/Kinutafontfactory/Yuji
-- KuLeiWaYuanTi-CJK-JP-Regular:苦累蛙圓體-CJK-JP Regular https://github.com/max32002/kurewa-gothic
 - QingLiuShuSIMO2-T:青柳隷書 https://opentype.jp/aoyagireisho.htm
 - ZhaiZaiJiaFenTiaoTian:宅在家粉條甜 https://home.gamer.com.tw/creationDetail.php?sn=5378926
 - ZhanKuQingKeHuangYouTi:站酷慶科黃油體 https://www.zcool.com.cn/work/ZMTg5MDEyMDQ=.html
@@ -56,7 +57,6 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - TanugoTangGuoShouXieTi-Bold:糖果手寫體 Bold https://github.com/tanukifont/Tanugo
 - TanugoTangGuoShouXieTi-Round-Regular:糖果手寫體 Round Regular https://github.com/tanukifont/Tanugo
 - ShiWeiYongTuiHeiTi-CJK-JP-Black：獅尾詠腿黑體 https://github.com/max32002/swei-fan-leg
-- LiFangTi11Hao:俐方體11號 https://github.com/ACh-K/Cubic-11
 - YOzShouXieTi-RS:YOz手寫體 RS
 - YingZhuiXingShu:英椎行書 https://www.ac-font.com/jp/detail_jb_006.php
 - PoSuiLingHaoZi:破碎零號字 https://cute-freefont.flop.jp/flop_zero-gochic.html

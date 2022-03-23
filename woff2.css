@@ -168,3 +168,15 @@
   font-family: "KleeOne-Regular-2";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/KleeOne-Regular-2.woff2) format("woff2");
 }
+
+/* 苦累蛙圓體 */
+@font-face {
+  font-family: "KurewaGothicCjkJp-Regular-2";
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/KurewaGothicCjkJp-Regular-2.woff2) format("woff2");
+}
+
+/* 俐方體11號 */
+@font-face {
+  font-family: "Cubic";
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/Cubic.woff2) format("woff2");
+}
