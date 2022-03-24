@@ -285,6 +285,18 @@
   src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/ZhaiZaiJiaFenTiaoTian.woff2) format("woff2");
 }
 
+/* 宅在家自動筆 */
+@font-face {
+  font-family: "ZhaiZaiJiaMaiKeBi";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/ZhaiZaiJiaMaiKeBi.woff2) format("woff2");
+}
+
+/* 宅在家麥克筆 */
+@font-face {
+  font-family: "ZhaiZaiJiaZiDongBi";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/ZhaiZaiJiaZiDongBi.woff2) format("woff2");
+}
+
 /* 站酷慶科黃油體 */
 @font-face {
   font-family: "ZhanKuQingKeHuangYouTi";
