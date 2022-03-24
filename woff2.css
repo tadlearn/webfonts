@@ -16,6 +16,12 @@
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/MamelonHi.woff2) format("woff2");
 }
 
+/* 王漢宗魏碑體 */
+@font-face {
+  font-family: "HanWangWeBe";
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/HanWangWeBe.woff2) format("woff2");
+}
+
 /* 王漢宗超明體 */
 @font-face {
   font-family: "HanWangMingBlack";
