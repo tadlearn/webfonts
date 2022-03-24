@@ -178,6 +178,12 @@
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/WuXinShouXieTi.woff2) format("woff2");
 }
 
+/* 瀨戶字體 */
+@font-face {
+  font-family: "NaikaiFont";
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/NaikaiFont.woff2) format("woff2");
+}
+
 /* 馬克筆手寫體 */
 @font-face {
   font-family: "NishikiTeki";
