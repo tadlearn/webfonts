@@ -123,16 +123,16 @@
   src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/HanZiBiShunZiTi.woff2) format("woff2");
 }
 
-/* 衡山毛筆草書 */
+/* 莫大毛筆字體（衡山毛筆草書） */
 @font-face {
-  font-family: "HengShanMaoBiCaoShu";
-  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/HengShanMaoBiCaoShu.woff2) format("woff2");
+  font-family: "Bakudai";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/Bakudai.woff2) format("woff2");
 }
 
-/* 衡山毛筆行書 */
+/* 正風毛筆字體（衡山毛筆行書） */
 @font-face {
-  font-family: "HengShanMaoXing";
-  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/HengShanMaoXing.woff2) format("woff2");
+  font-family: "MasaFont";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/MasaFont.woff2) format("woff2");
 }
 
 /* 解星 B */
