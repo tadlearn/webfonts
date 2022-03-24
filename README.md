@@ -43,7 +43,7 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - Kurewa:苦累蛙圓體-CJK-JP Regular https://github.com/max32002/kurewa-gothic
 - Cubic:俐方體11號 https://github.com/ACh-K/Cubic-11
 - WuXinShouXieTi:無心手寫體 http://modi.jpn.org/font_mushin.php
-- NaikaiFont:瀨戶字體 https://github.com/max32002/naikaifont
+- NaikaiFont:內海字體 https://github.com/max32002/naikaifont
 - NishikiTeki:馬克筆手寫 https://www.freejapanesefont.com/nishiki-teki-font-download/
 - Doudouziti:豆豆體 https://forest.watch.impress.co.jp/library/software/elmer/
 - PangPangZhuRouTi:胖胖豬肉體 http://www.fontna.com/blog/1651/
