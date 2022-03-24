@@ -285,13 +285,13 @@
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/ZhaiZaiJiaFenTiaoTian.woff2) format("woff2");
 }
 
-/* 宅在家自動筆 */
+/* 宅在家麥克筆 */
 @font-face {
   font-family: "ZhaiZaiJiaMaiKeBi";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/ZhaiZaiJiaMaiKeBi.woff2) format("woff2");
 }
 
-/* 宅在家麥克筆 */
+/* 宅在家自動筆 */
 @font-face {
   font-family: "ZhaiZaiJiaZiDongBi";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/ZhaiZaiJiaZiDongBi.woff2) format("woff2");
