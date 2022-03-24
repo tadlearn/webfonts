@@ -36,7 +36,7 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - HengShanMaoBiCaoShu:衡山毛筆草書 https://opentype.jp/kouzansousho.htm
 - HengShanMaoXing:衡山毛筆行書 https://opentype.jp/kouzangyousho.htm
 - KaiseiTokumin:解星 B https://font-kai.jp/kaisei-sinmin.html
-- Kingnam-Maiyuan:荊南麥圓體 https://github.com/NightFurySL2001/JingNanMaiYuan
+- KingnamMaiyuan:荊南麥圓體 https://github.com/NightFurySL2001/JingNanMaiYuan
 - I-PenCrane-B:刻石錄鋼筆鶴體 https://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E9%8B%BC%E7%AD%86%E9%B6%B4%E9%AB%94
 - I-Ngaan:刻石錄顏體 https://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E9%A1%8F%E9%AB%94
 - KleeOne:克利蘿莉風字體 https://github.com/fontworks-fonts/Klee

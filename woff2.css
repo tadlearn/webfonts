@@ -35,7 +35,7 @@
 /* 字體圈欣意冠黑體 */
 @font-face {
   font-family: "XinYiGuanHeiTi";
-  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/XinYiGuanHeiTi-Regular.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/XinYiGuanHeiTi.woff2) format("woff2");
 }
 
 /* 芫荽體 */
@@ -82,109 +82,98 @@
 /* 851電機文字 */
 @font-face {
   font-family: "851DianJiWenZiTi";
-  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/851DianJiWenZiTi-2.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/851DianJiWenZiTi.woff2) format("woff2");
 }
 
 /* 波塔 */
 @font-face {
   font-family: "BoTa";
-  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/BoTa-2.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/BoTa.woff2) format("woff2");
 }
 
 /* 超級細ゴシック體 */
 @font-face {
   font-family: "ChaoJiXi";
-  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/ChaoJiXi-2.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/ChaoJiXi.woff2) format("woff2");
 }
 
 /* 黑板粉筆體 */
 @font-face {
   font-family: "Crayon";
-  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/crayon_1-1.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/Crayon.woff2) format("woff2");
 }
 
 /* 大波浪圓體 */
 @font-face {
   font-family: "PopGothicCjkJp";
-  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/PopGothicCjkJp-Light-2.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/PopGothicCjkJp.woff2) format("woff2");
 }
 
 /* 粉筆體 */
 @font-face {
   font-family: "Chalk";
-  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/Chalk-S-JP-2.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/Chalk.woff2) format("woff2");
 }
 
 /* 公司LOGO圓體 */
 @font-face {
   font-family: "CorpRound";
-  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/corp-round-v1-2.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/CorpRound.woff2) format("woff2");
 }
 
 /* 漢字筆順體原版 */
 @font-face {
   font-family: "HanZiBiShunZiTi";
-  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/HanZiBiShunZiTi-2.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/HanZiBiShunZiTi.woff2) format("woff2");
 }
 
 /* 衡山毛筆草書 */
 @font-face {
   font-family: "HengShanMaoBiCaoShu";
-  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/HengShanMaoBiCaoShu-2.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/HengShanMaoBiCaoShu.woff2) format("woff2");
 }
 
 /* 衡山毛筆行書 */
 @font-face {
   font-family: "HengShanMaoXing";
-  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/HengShanMaoXing-1.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/HengShanMaoXing.woff2) format("woff2");
 }
 
 /* 解星 B */
 @font-face {
   font-family: "KaiseiTokumin";
-  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/KaiseiTokumin-Bold-2.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/KaiseiTokumin.woff2) format("woff2");
 }
 
 /* 荊南麥圓體 */
 @font-face {
-  font-family: "Kingnam-Maiyuan";
-  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/Kingnam-Maiyuan.woff2) format("woff2"),
-  url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/Kingnam-Maiyuan.woff) format("woff");
-}
-
-@font-face {
-  font-family: "荊南麥圓體";
-  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/Kingnam-Maiyuan.woff2) format("woff2");
+  font-family: "KingnamMaiyuan";
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/KingnamMaiyuan.woff2) format("woff2"),
+  url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/KingnamMaiyuan.woff) format("woff");
 }
 
 /* 刻石錄鋼筆鶴體 */
 @font-face {
   font-family: "I-PenCrane-B";
-  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/I-PenCrane-B-2.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/I-PenCrane-B.woff2) format("woff2");
 }
 
 /* 刻石錄顏體 */
 @font-face {
   font-family: "I-Ngaan";
-  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/I-Ngaan-2.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/I-Ngaan.woff2) format("woff2");
 }
 
 /* 克利蘿莉風字體 */
 @font-face {
   font-family: "KleeOne";
-  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/KleeOne-Regular-2.woff2) format("woff2");
-}
-
-/* 克利蘿莉風字體 */
-@font-face {
-  font-family: "克利蘿莉風字體";
-  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/KleeOne-Regular-2.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/KleeOne.woff2) format("woff2");
 }
 
 /* 苦累蛙圓體 */
 @font-face {
   font-family: "Kurewa";
-  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/KurewaGothicCjkJp-Regular-2.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/Kurewa.woff2) format("woff2");
 }
 
 /* 俐方體11號 */
@@ -196,25 +185,25 @@
 /* 無心手寫體 */
 @font-face {
   font-family: "WuXinShouXieTi";
-  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/WuXinShouXieTi-2.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/WuXinShouXieTi.woff2) format("woff2");
 }
 
 /* 馬克筆手寫體 */
 @font-face {
   font-family: "NishikiTeki";
-  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/nishiki-teki-2.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/NishikiTeki.woff2) format("woff2");
 }
 
 /* 豆豆體 */
 @font-face {
   font-family: "Doudouziti";
-  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/doudouziti.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/Doudouziti.woff2) format("woff2");
 }
 
 /* 胖胖豬肉體 */
 @font-face {
   font-family: "PangPangZhuRouTi";
-  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/PangPangZhuRouTi-2.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/PangPangZhuRouTi.woff2) format("woff2");
 }
 
 /* 破碎零號字 */
