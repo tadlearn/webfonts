@@ -1,37 +1,31 @@
 /* jf open 粉圓 */
 @font-face {
   font-family: "jf-openhuninn";
-
   src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/jf-openhuninn.woff2) format("woff2");
-  /* Modern Browsers */
-  font-weight: normal;
-  font-style: normal;
 }
 
-/* マメロン（mamelon）字體 */
+/* Mamelon字體 */
 @font-face {
   font-family: "Mamelon";
-
   src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/Mamelon.woff2) format("woff2");
-  /* Modern Browsers */
-  font-weight: normal;
-  font-style: normal;
+}
+
+/* Mamelon新版字體 */
+@font-face {
+  font-family: "MamelonHi";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/MamelonHi.woff2) format("woff2");
 }
 
 /* 王漢宗魏碑體 */
 @font-face {
   font-family: "HanWangWeBe";
   src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/HanWangWeBe.woff2) format("woff2");
-  font-weight: normal;
-  font-style: normal;
 }
 
 /* 王漢宗超明體 */
 @font-face {
   font-family: "HanWangMingBlack";
   src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/HanWangMingBlack.woff2) format("woff2");
-  font-weight: 900;
-  font-style: normal;
 }
 
 /* 字體圈欣意冠黑體 */

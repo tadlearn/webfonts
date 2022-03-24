@@ -15,7 +15,8 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 以下字型大多為可商業用，但授權有時候會有所變化，故，使用前請先自行確認授權是否 OK。
 
 - jf-openhuninn:jf open 粉圓體 https://justfont.com/huninn/
-- Mamelon:マメロン（mamelon）字體 https://moji-waku.com/mamelon/
+- Mamelon:Mamelon字體 https://moji-waku.com/mamelon/
+- MamelonHi:Mamelon新版字體 https://moji-waku.com/mamelon/
 - HanWangWeBe:王漢宗魏碑體
 - HanWangMingBlack:王漢宗超明體
 - XinYiGuanHeiTi:字體圈欣意冠黑體 https://www.maoken.com/freefonts/3664.html
