@@ -50,16 +50,16 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - Qiang:黒薔薇 http://modi.jpn.org/font_amemuchi-cinderella.php
 - QianTuMaKeShouXieTi:千圖馬克手寫體 https://www.58pic.com/index.php?m=qtwFontPage&a=index
 - QingLiuShu:青柳隷書 https://opentype.jp/aoyagireisho.htm
-- Uzura-ZiTi:鵪鶉字體 http://azukifont.com/font/uzura.html
-- TANUKIYouXingMAJIKKU:たぬき油性マジック https://tanukifont.com/tanuki-permanent-marker/
+- SweiFistLegCJKjp:獅尾詠腿黑體 https://github.com/max32002/swei-fan-leg
+- TanugoTangGuoShouXieTiBold:糖果手寫粗體 Bold https://github.com/tanukifont/Tanugo
+- TanugoTangGuoShouXieTiRegular:糖果手寫體 Round Regular https://github.com/tanukifont/Tanugo
+- Tanukimagic:たぬき油性マジック https://tanukifont.com/tanuki-permanent-marker/
+- UzuraZiTi:鵪鶉字體 http://azukifont.com/font/uzura.html
+- XianErTi:賢二體 http://fontvip.com/HanYi-Fonts/75197.html
+- YingZhuiXingShu:英椎行書 https://www.ac-font.com/jp/detail_jb_006.php
 - YouZi:佑字 https://github.com/Kinutafontfactory/Yuji
+- YOzShouXieTi:YOz手寫體
+- YuanYingHeiTi:源影黑體 https://0115765.com/archives/1120
 - ZhaiZaiJiaFenTiaoTian:宅在家粉條甜 https://home.gamer.com.tw/creationDetail.php?sn=5378926
 - ZhanKuQingKeHuangYouTi:站酷慶科黃油體 https://www.zcool.com.cn/work/ZMTg5MDEyMDQ=.html
 - ZuoZuoMuZiTi:佐佐木字體 https://booth.pm/ja/items/1930534
-- XianErTi:賢二體 http://fontvip.com/HanYi-Fonts/75197.html
-- TanugoTangGuoShouXieTi-Bold:糖果手寫體 Bold https://github.com/tanukifont/Tanugo
-- TanugoTangGuoShouXieTi-Round-Regular:糖果手寫體 Round Regular https://github.com/tanukifont/Tanugo
-- ShiWeiYongTuiHeiTi-CJK-JP-Black：獅尾詠腿黑體 https://github.com/max32002/swei-fan-leg
-- YOzShouXieTi-RS:YOz手寫體 RS
-- YingZhuiXingShu:英椎行書 https://www.ac-font.com/jp/detail_jb_006.php
-- YuanYingHeiTi:源影黑體 https://0115765.com/archives/1120

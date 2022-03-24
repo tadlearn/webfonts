@@ -230,3 +230,81 @@
   font-family: "QingLiuShu";
   src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/QingLiuShu.woff2) format("woff2");
 }
+
+/* 獅尾詠腿黑體 */
+@font-face {
+  font-family: "SweiFistLegCJKjp";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/SweiFistLegCJKjp.woff2) format("woff2");
+}
+
+/* 糖果手寫粗體 */
+@font-face {
+  font-family: "TanugoTangGuoShouXieTiBold";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/TanugoTangGuoShouXieTiBold.woff2) format("woff2");
+}
+
+/* 糖果手寫體 */
+@font-face {
+  font-family: "TanugoTangGuoShouXieTiRegular";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/TanugoTangGuoShouXieTiRegular.woff2) format("woff2");
+}
+
+/* たぬき油性マジック */
+@font-face {
+  font-family: "Tanukimagic";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/Tanukimagic.woff2) format("woff2");
+}
+
+/* 鵪鶉字體 */
+@font-face {
+  font-family: "UzuraZiTi";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/UzuraZiTi.woff2) format("woff2");
+}
+
+/* 賢二體 */
+@font-face {
+  font-family: "XianErTi";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/XianErTi.woff2) format("woff2");
+}
+
+/* 英椎行書 */
+@font-face {
+  font-family: "YingZhuiXingShu";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/YingZhuiXingShu.woff2) format("woff2");
+}
+
+/* 佑字 */
+@font-face {
+  font-family: "YouZi";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/YouZi.woff2) format("woff2");
+}
+
+/* YOz手寫體 */
+@font-face {
+  font-family: "YOzShouXieTi";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/YOzShouXieTi.woff2) format("woff2");
+}
+
+/* 源影黑體 */
+@font-face {
+  font-family: "YuanYingHeiTi";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/YuanYingHeiTi.woff2) format("woff2");
+}
+
+/* 宅在家粉條甜 */
+@font-face {
+  font-family: "ZhaiZaiJiaFenTiaoTian";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/ZhaiZaiJiaFenTiaoTian.woff2) format("woff2");
+}
+
+/* 站酷慶科黃油體 */
+@font-face {
+  font-family: "ZhanKuQingKeHuangYouTi";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/ZhanKuQingKeHuangYouTi.woff2) format("woff2");
+}
+
+/* 佐佐木字體 */
+@font-face {
+  font-family: "ZuoZuoMuZiTi";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/ZuoZuoMuZiTi.woff2) format("woff2");
+}
