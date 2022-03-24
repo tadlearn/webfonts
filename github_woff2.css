@@ -165,12 +165,6 @@
   src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/I-Ngaan.woff2) format("woff2");
 }
 
-/* 克利蘿莉風字體 */
-@font-face {
-  font-family: "KleeOne";
-  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/KleeOne.woff2) format("woff2");
-}
-
 /* 苦累蛙圓體 */
 @font-face {
   font-family: "Kurewa";

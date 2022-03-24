@@ -39,7 +39,6 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - KingnamMaiyuan:荊南麥圓體 https://github.com/NightFurySL2001/JingNanMaiYuan
 - I-PenCrane-B:刻石錄鋼筆鶴體 https://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E9%8B%BC%E7%AD%86%E9%B6%B4%E9%AB%94
 - I-Ngaan:刻石錄顏體 https://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E9%A1%8F%E9%AB%94
-- KleeOne:克利蘿莉風字體 https://github.com/fontworks-fonts/Klee
 - Kurewa:苦累蛙圓體-CJK-JP Regular https://github.com/max32002/kurewa-gothic
 - Cubic:俐方體11號 https://github.com/ACh-K/Cubic-11
 - WuXinShouXieTi:無心手寫體 http://modi.jpn.org/font_mushin.php
