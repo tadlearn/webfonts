@@ -34,7 +34,8 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - Chalk:粉筆體S
 - CorpRound:公司LOGO圓體 https://logotype.jp/font-corpmaru.html
 - HanZiBiShunZiTi:漢字筆順體原版 https://www.fonts.net.cn/font-33863152524.html
-- Bakudai:莫大毛筆字體（衡山毛筆草書） https://opentype.jp/kouzansousho.htm
+- HengShanMaoBiCaoShu:衡山毛筆草書 https://opentype.jp/kouzansousho.htm
+- Bakudai:莫大毛筆字體 https://github.com/max32002/bakudaifont
 - MasaFont:正風毛筆字體（衡山毛筆行書） https://github.com/max32002/masafont
 - KaiseiTokumin:解星 B https://font-kai.jp/kaisei-sinmin.html
 - KingnamMaiyuan:荊南麥圓體 https://github.com/NightFurySL2001/JingNanMaiYuan

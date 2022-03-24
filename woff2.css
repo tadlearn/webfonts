@@ -123,7 +123,13 @@
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/HanZiBiShunZiTi.woff2) format("woff2");
 }
 
-/* 莫大毛筆字體（衡山毛筆草書） */
+/* 衡山毛筆草書 */
+@font-face {
+  font-family: "HengShanMaoBiCaoShu";
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/HengShanMaoBiCaoShu.woff2) format("woff2");
+}
+
+/* 莫大毛筆字體 */
 @font-face {
   font-family: "Bakudai";
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/Bakudai.woff2) format("woff2");
