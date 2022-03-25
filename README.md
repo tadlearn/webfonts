@@ -53,6 +53,7 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - QianTuMaKeShouXieTi:千圖馬克手寫體 https://www.58pic.com/index.php?m=qtwFontPage&a=index
 - QingLiuShu:青柳隷書 https://opentype.jp/aoyagireisho.htm
 - SweiFistLegCJKjp:獅尾詠腿黑體 https://github.com/max32002/swei-fan-leg
+- SweiSpringSugarCJKtc:獅尾四季春 https://github.com/max32002/swei-spring
 - TanugoTangGuoShouXieTiBold:糖果手寫粗體 Bold https://github.com/tanukifont/Tanugo
 - TanugoTangGuoShouXieTiRegular:糖果手寫體 Round Regular https://github.com/tanukifont/Tanugo
 - Tanukimagic:たぬき油性マジック https://tanukifont.com/tanuki-permanent-marker/

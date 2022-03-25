@@ -238,6 +238,12 @@
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/SweiFistLegCJKjp.woff2) format("woff2");
 }
 
+/* 獅尾四季春 */
+@font-face {
+  font-family: "SweiSpringSugarCJKtc";
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/SweiSpringSugarCJKtc.woff2) format("woff2");
+}
+
 /* 糖果手寫粗體 */
 @font-face {
   font-family: "TanugoTangGuoShouXieTiBold";
