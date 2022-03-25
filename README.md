@@ -17,8 +17,16 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - jf-openhuninn:jf open 粉圓體 https://justfont.com/huninn/
 - Mamelon:Mamelon字體 https://moji-waku.com/mamelon/
 - MamelonHi:Mamelon新版字體 https://moji-waku.com/mamelon/
-- HanWangWeBe:王漢宗魏碑體
-- HanWangMingBlack:王漢宗超明體
+- HanWangWeBe:王漢宗魏碑體 https://zh.wikipedia.org/wiki/王漢宗自由字型
+- HanWangMingBlack:王漢宗超明體 https://zh.wikipedia.org/wiki/王漢宗自由字型
+- HanWangKaiMediumChuIn:王漢宗中楷注音 https://zh.wikipedia.org/wiki/王漢宗自由字型
+- HanWangLiSuMedium:王漢宗中隸書 https://zh.wikipedia.org/wiki/王漢宗自由字型
+- HanWangHeiHeavy:王漢宗特黑體 https://zh.wikipedia.org/wiki/王漢宗自由字型
+- HanWangYenHeavy:王漢宗特圓體 https://zh.wikipedia.org/wiki/王漢宗自由字型
+- HanWangKanTan:王漢宗勘亭流 https://zh.wikipedia.org/wiki/王漢宗自由字型
+- HanWangYenLight:王漢宗細圓體 https://zh.wikipedia.org/wiki/王漢宗自由字型
+- HanWangHeiLight:王漢宗細黑體 https://zh.wikipedia.org/wiki/王漢宗自由字型
+- HanWangZonYi:王漢宗綜藝體 https://zh.wikipedia.org/wiki/王漢宗自由字型
 - XinYiGuanHeiTi:字體圈欣意冠黑體 https://www.maoken.com/freefonts/3664.html
 - Iansui:芫荽體 https://github.com/ButTaiwan/iansui
 - SweiToothpasteCJKtc:獅尾牙膏圓體 https://github.com/max32002/swei-toothpaste

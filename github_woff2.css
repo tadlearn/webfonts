@@ -28,6 +28,54 @@
   src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/HanWangMingBlack.woff2) format("woff2");
 }
 
+/* 王漢宗中楷注音 */
+@font-face {
+  font-family: "HanWangKaiMediumChuIn";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/HanWangKaiMediumChuIn.woff2) format("woff2");
+}
+
+/* 王漢宗中隸書 */
+@font-face {
+  font-family: "HanWangLiSuMedium";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/HanWangLiSuMedium.woff2) format("woff2");
+}
+
+/* 王漢宗特黑體 */
+@font-face {
+  font-family: "HanWangHeiHeavy";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/HanWangHeiHeavy.woff2) format("woff2");
+}
+
+/* 王漢宗特圓體 */
+@font-face {
+  font-family: "HanWangYenHeavy";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/HanWangYenHeavy.woff2) format("woff2");
+}
+
+/* 王漢宗勘亭流 */
+@font-face {
+  font-family: "HanWangKanTan";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/HanWangKanTan.woff2) format("woff2");
+}
+
+/* 王漢宗細圓體 */
+@font-face {
+  font-family: "HanWangYenLight";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/HanWangYenLight.woff2) format("woff2");
+}
+
+/* 王漢宗細黑體 */
+@font-face {
+  font-family: "HanWangHeiLight";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/HanWangHeiLight.woff2) format("woff2");
+}
+
+/* 王漢宗綜藝體 */
+@font-face {
+  font-family: "HanWangZonYi";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/HanWangZonYi.woff2) format("woff2");
+}
+
 /* 字體圈欣意冠黑體 */
 @font-face {
   font-family: "XinYiGuanHeiTi";
