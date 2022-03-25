@@ -66,5 +66,4 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - ZhaiZaiJiaFenTiaoTian:宅在家粉條甜 https://home.gamer.com.tw/creationDetail.php?sn=5378926
 - ZhaiZaiJiaMaiKeBi:宅在家麥克筆 https://home.gamer.com.tw/creationDetail.php?sn=4470108
 - ZhaiZaiJiaZiDongBi:宅在家自動筆 https://home.gamer.com.tw/creationDetail.php?sn=4662078
-- ZhanKuQingKeHuangYouTi:站酷慶科黃油體 https://www.zcool.com.cn/work/ZMTg5MDEyMDQ=.html
 - ZuoZuoMuZiTi:佐佐木字體 https://booth.pm/ja/items/1930534

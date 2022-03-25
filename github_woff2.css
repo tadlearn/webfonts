@@ -315,12 +315,6 @@
   src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/ZhaiZaiJiaZiDongBi.woff2) format("woff2");
 }
 
-/* 站酷慶科黃油體 */
-@font-face {
-  font-family: "ZhanKuQingKeHuangYouTi";
-  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/ZhanKuQingKeHuangYouTi.woff2) format("woff2");
-}
-
 /* 佐佐木字體 */
 @font-face {
   font-family: "ZuoZuoMuZiTi";
