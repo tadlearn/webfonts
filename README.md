@@ -23,6 +23,7 @@ https://cdn.jsdelivr.net/gh/tadlearn/webfonts/woff2.css
 - Crayon:黑板粉筆體 http://font.sumomo.ne.jp/font_2.html
 - Cubic:俐方體11號 https://github.com/ACh-K/Cubic-11
 - Doudouziti:豆豆體 https://forest.watch.impress.co.jp/library/software/elmer/
+- HanWangFangSongMedium:王漢宗中仿宋 https://zh.wikipedia.org/wiki/王漢宗自由字型
 - HanWangHeiHeavy:王漢宗特黑體 https://zh.wikipedia.org/wiki/王漢宗自由字型
 - HanWangHeiLight:王漢宗細黑體 https://zh.wikipedia.org/wiki/王漢宗自由字型
 - HanWangKaiMediumChuIn:王漢宗中楷注音 https://zh.wikipedia.org/wiki/王漢宗自由字型

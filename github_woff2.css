@@ -54,6 +54,12 @@
   src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/Doudouziti.woff2) format("woff2");
 }
 
+/* 王漢宗中仿宋 */
+@font-face {
+  font-family: "HanWangFangSongMedium";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/HanWangFangSongMedium.woff2) format("woff2");
+}
+
 /* 王漢宗特黑體 */
 @font-face {
   font-family: "HanWangHeiHeavy";
