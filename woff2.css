@@ -182,6 +182,12 @@
   src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/JfOpenhuninn.woff2) format("woff2");
 }
 
+/* jf open 粉圓 */
+@font-face {
+  font-family: "jf-openhuninn";
+  src: url(https://cdn.jsdelivr.net/gh/tadlearn/webfonts/JfOpenhuninn.woff2) format("woff2");
+}
+
 /* 解星 B */
 @font-face {
   font-family: "KaiseiTokumin";
