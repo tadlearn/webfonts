@@ -18,6 +18,102 @@
   src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/BoTa.woff2) format("woff2");
 }
 
+/* 源流注音明體-粗體 */
+@font-face {
+  font-family: "BpmfGenRyuMin-B";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/BpmfGenRyuMin-B.woff2) format("woff2");
+}
+
+/* 源流注音明體 */
+@font-face {
+  font-family: "BpmfGenRyuMin-R";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/BpmfGenRyuMin-R.woff2) format("woff2");
+}
+
+/* 源石注音黑體-粗體 */
+@font-face {
+  font-family: "BpmfGenSekiGothic-B";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/BpmfGenSekiGothic-B.woff2) format("woff2");
+}
+
+/* 源石注音黑體 */
+@font-face {
+  font-family: "BpmfGenSekiGothic-R";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/BpmfGenSekiGothic-R.woff2) format("woff2");
+}
+
+/* 源泉注音圓體-粗體 */
+@font-face {
+  font-family: "BpmfGenSenRounded-B";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/BpmfGenSenRounded-B.woff2) format("woff2");
+}
+
+/* 源泉注音圓體 */
+@font-face {
+  font-family: "BpmfGenSenRounded-R";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/BpmfGenSenRounded-R.woff2) format("woff2");
+}
+
+/* 源雲注音明體 */
+@font-face {
+  font-family: "BpmfGenWanMin-R";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/BpmfGenWanMin-R.woff2) format("woff2");
+}
+
+/* 源樣注音黑體-粗體 */
+@font-face {
+  font-family: "BpmfGenYoGothic-B";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/BpmfGenYoGothic-B.woff2) format("woff2");
+}
+
+/* 源樣注音黑體 */
+@font-face {
+  font-family: "BpmfGenYoGothic-R";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/BpmfGenYoGothic-R.woff2) format("woff2");
+}
+
+/* 源樣注音明體-粗體 */
+@font-face {
+  font-family: "BpmfGenYoMin-B";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/BpmfGenYoMin-B.woff2) format("woff2");
+}
+
+/* 源樣注音明體 */
+@font-face {
+  font-family: "BpmfGenYoMin-R";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/BpmfGenYoMin-R.woff2) format("woff2");
+}
+
+/* 字嗨注音標楷 */
+@font-face {
+  font-family: "BpmfZihiKaiStd-Regular";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/BpmfZihiKaiStd-Regular.woff2) format("woff2");
+}
+
+/* 字嗨注音黑體-粗體 */
+@font-face {
+  font-family: "BpmfZihiSans-Bold";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/BpmfZihiSans-Bold.woff2) format("woff2");
+}
+
+/* 字嗨注音黑體 */
+@font-face {
+  font-family: "BpmfZihiSans-Regular";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/BpmfZihiSans-Regular.woff2) format("woff2");
+}
+
+/* 字嗨注音宋體-粗體 */
+@font-face {
+  font-family: "BpmfZihiSerif-Bold";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/BpmfZihiSerif-Bold.woff2) format("woff2");
+}
+
+/* 字嗨注音宋體 */
+@font-face {
+  font-family: "BpmfZihiSerif-Regular";
+  src: url(https://raw.githubusercontent.com/tadlearn/webfonts/main/BpmfZihiSerif-Regular.woff2) format("woff2");
+}
+
 /* 粉筆體 */
 @font-face {
   font-family: "Chalk";
